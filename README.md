@@ -151,4 +151,4 @@ In the other hand, if you're not going to export the `EPUB`, you can use the `--
 ## Thanks!!
 For any kind of problem, please don't hesitate to open an issue here on *GitHub*.  
   
-*Lorenzo Di Fuccia*
+
